@@ -1,1 +1,3 @@
-## Maechine Learning Projects
+## Maechine Learning Projects'
+
+Tech Stack
